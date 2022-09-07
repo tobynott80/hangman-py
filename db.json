@@ -1,0 +1,42 @@
+[
+  {
+    "name": "toby",
+    "wins": 8,
+    "losses": 7
+  },
+  {
+    "name": "jeff",
+    "wins": 5,
+    "losses": 4
+  },
+  {
+    "name": "steve",
+    "wins": 7,
+    "losses": 8
+  },
+  {
+    "name": "sue",
+    "wins": 0,
+    "losses": 0
+  },
+  {
+    "name": "greg",
+    "wins": 0,
+    "losses": 0
+  },
+  {
+    "name": "debora",
+    "wins": 0,
+    "losses": 1
+  },
+  {
+    "name": "kate",
+    "wins": 1,
+    "losses": 0
+  },
+  {
+    "name": "terry",
+    "wins": 1,
+    "losses": 1
+  }
+]
